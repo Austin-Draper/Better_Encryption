@@ -7,9 +7,9 @@ Download the Better_Encryption_Release folder and open it, then open the "releas
 ##
 ## Running the Program
 After running the program in Qt or using Encryption.exe, you are prompted with two buttons "Encrypt" and "Decrypt".  
-First you will click "Encrypt". 
-You are now prompted to navigate to a text file or word document to encrypt.  
-I recommend creating a new text document and filling it with a few random sentences to test this program. 
+First you will click "Encrypt".  
+You are now prompted to navigate to a text file or word document to encrypt.    
+I recommend creating a new text document and filling it with a few random sentences to test this program.  
 Select the file you wish to encrypt and the program will take the contents of that file, encrypt them, and put them back into the same file.  
 After a few seconds, check the file and verify it has been encrypted. Scroll down past all the numbers to see the actual encrypted message. 
 Now click on the "Decrypt" button and decrypt the same file you just encrypted. 
