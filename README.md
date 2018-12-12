@@ -25,4 +25,4 @@ Check the decrypted file and it should be back to normal.
 4. There is a good chunk of commented out code as well as some un-necessary code that can be removed   
 ##
 ## License
-Copyright © 2018, Austin Draper. Released under the [GNU General Public License v3.0](LICENSE).
+Copyright © 2018, [Austin Draper](https://github.com/Austin-Draper). Released under the [GNU General Public License v3.0](LICENSE).
