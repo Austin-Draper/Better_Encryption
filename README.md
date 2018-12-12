@@ -2,9 +2,9 @@
 This is a program utilizing Qt and C++ to create a basic encryption.
 If you want to see the code for yourself, download the Better_Encryption folder and place it into your Qt projects folder.
 From there simply run Qt and open the project.
-##
 The Better_Encryption_Release folder is there if you just want to run the project yourself without needing to open Qt.
 Download the Better_Encryption_Release folder and open it, then open the "release" folder, then run "Encryption.exe".
+##
 ## Running the Program
 After running the program in Qt or using Encryption.exe, you are prompted with two buttons "Encrypt" and "Decrypt".
 First you will click "Encrypt".
