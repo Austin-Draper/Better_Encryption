@@ -20,4 +20,6 @@ Check the decrypted file and it should be back to normal.
 
 2. Decrypt fails if 2 scenarios occur. The first is if new line "\n" isn't the final character in decrypt vector, but measures have been taken to make this possibility nearly zero. The other scenario is if the first line of the file to be decrypted is 100% numbers without a single other character. In this scenario the encrypt will go through just fine, but if the first line that is encrypted ends up being only numbers then the program will crash. The odds of this occurring are very low unless the first line of the file only has 2 or 3 characters.
 
-3. There are many ways to increase the strength of the encryption that were not taken in this program. This program was meant to be a learning experience getting used to programming in Qt. This project is relatively basic but does provide a good foundation to build up a stronger and more elaborate encryption program off of it.
+3. There are many ways to increase the strength of the encryption that were not taken in this program. This program was meant to be a learning experience getting used to programming in Qt. This project is relatively basic but does provide a good foundation to build up a stronger and more elaborate encryption program off of it.  
+
+4. There is a good chunk of commented out code as well as some un-necessary code that can be removed   
