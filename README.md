@@ -15,7 +15,7 @@ After a few seconds, check the file and verify it has been encrypted. Scroll dow
 Now click on the "Decrypt" button and decrypt the same file you just encrypted.
 Check the decrypted file and it should be back to normal.
 
-### TODO
+## TODO
 1. The encryption time varies multiple seconds so it's hard to tell when the encryption is actually done. A "waiting" screen while encrypting followed by a "completed" screen when finished would mitigate this issue.
 
 2. Decrypt fails if 2 scenarios occur. The first is if new line "\n" isn't the final character in decrypt vector, but measures have been taken to make this possibility nearly zero. The other scenario is if the first line of the file to be decrypted is 100% numbers without a single other character. In this scenario the encrypt will go through just fine, but if the first line that is encrypted ends up being only numbers then the program will crash. The odds of this occurring are very low unless the first line of the file only has 2 or 3 characters.
