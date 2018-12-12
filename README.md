@@ -10,10 +10,10 @@ After running the program in Qt or using Encryption.exe, you are prompted with t
 First you will click "Encrypt".  
 You are now prompted to navigate to a text file or word document to encrypt.    
 I recommend creating a new text document and filling it with a few random sentences to test this program.  
-Select the file you wish to encrypt and the program will take the contents of that file, encrypt them, and put them back into the same file.  
-After a few seconds, check the file and verify it has been encrypted. Scroll down past all the numbers to see the actual encrypted message. 
-Now click on the "Decrypt" button and decrypt the same file you just encrypted. 
-Check the decrypted file and it should be back to normal. 
+Select the file you wish to encrypt and the program will take the contents of that file, encrypt them, and put them back into the same file.    
+After a few seconds, check the file and verify it has been encrypted. Scroll down past all the numbers to see the actual encrypted message.  
+Now click on the "Decrypt" button and decrypt the same file you just encrypted.  
+Check the decrypted file and it should be back to normal.  
 ##
 ## TODO
 1. The encryption time varies multiple seconds so it's hard to tell when the encryption is actually done. A "waiting" screen while encrypting followed by a "completed" screen when finished would mitigate this issue.
