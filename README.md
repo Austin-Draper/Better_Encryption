@@ -4,7 +4,7 @@ If you want to see the code for yourself, download the Better_Encryption folder 
 From there simply run Qt and open the project.
 The Better_Encryption_Release folder is there if you just want to run the project yourself without needing to open Qt.
 Download the Better_Encryption_Release folder and open it, then open the "release" folder, then run "Encryption.exe".
-###
+##
 ## Running the Program
 After running the program in Qt or using Encryption.exe, you are prompted with two buttons "Encrypt" and "Decrypt".
 First you will click "Encrypt".
@@ -14,7 +14,7 @@ Select the file you wish to encrypt and the program will take the contents of th
 After a few seconds, check the file and verify it has been encrypted. Scroll down past all the numbers to see the actual encrypted message.
 Now click on the "Decrypt" button and decrypt the same file you just encrypted.
 Check the decrypted file and it should be back to normal.
-###
+##
 ## TODO
 1. The encryption time varies multiple seconds so it's hard to tell when the encryption is actually done. A "waiting" screen while encrypting followed by a "completed" screen when finished would mitigate this issue.
 
