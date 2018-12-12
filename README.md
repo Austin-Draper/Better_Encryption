@@ -6,7 +6,7 @@ The Better_Encryption_Release folder is there if you just want to run the projec
 Download the Better_Encryption_Release folder and open it, then open the "release" folder, then run "Encryption.exe". 
 ##
 ## Running the Program
-After running the program in Qt or using Encryption.exe, you are prompted with two buttons "Encrypt" and "Decrypt". 
+After running the program in Qt or using Encryption.exe, you are prompted with two buttons "Encrypt" and "Decrypt".  
 First you will click "Encrypt". 
 You are now prompted to navigate to a text file or word document to encrypt.  
 I recommend creating a new text document and filling it with a few random sentences to test this program. 
