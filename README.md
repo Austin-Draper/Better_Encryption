@@ -23,3 +23,6 @@ Check the decrypted file and it should be back to normal.
 3. There are many ways to increase the strength of the encryption that were not taken in this program. This program was meant to be a learning experience getting used to programming in Qt. This project is relatively basic but does provide a good foundation to build up a stronger and more elaborate encryption program off of it.  
 
 4. There is a good chunk of commented out code as well as some un-necessary code that can be removed   
+##
+## License
+Copyright © 2018, Austin Draper. Released under the GNU General Public License v3.0.
