@@ -1,3 +1,4 @@
+//Copyright © 2018, [Austin Draper](https://github.com/Austin-Draper).
 #include "widget.h"
 #include <QApplication>
 
